@@ -1,0 +1,1 @@
+export { default as NuevaContrasenaView } from './nuevaContrasena-view';
